@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaeceduchu.greenpanda.co.in/sitemap.xml
